@@ -1,0 +1,28 @@
+0.56:  Tue Apr 13 07:28:30 EDT 2004
+   - jettero made my test more realistic -- er, realized
+     different machines have different dictionaries
+
+0.55:  Tue Apr 13 07:13:28 EDT 2004
+   - jettero found a horrid bug relating to spellchecking
+     numbers
+
+0.54:  Mon Apr 12 14:37:34 EDT 2004
+   - jettero made the highlighter a little smarter
+
+0.53:  Mon Apr 12 10:43:54 EDT 2004
+   - jettero handle the SIGPIPE now... *sigh*
+
+0.52:  Mon Apr 12 10:23:56 EDT 2004
+   - jettero added a SIGPIPE catcher
+
+0.51:  Mon Apr 12 10:22:05 EDT 2004
+   - jettero added a programatic interface to the
+     highlight-er
+
+0.12:  Tue Oct 22 07:15:33 EDT 2002
+   - jettero got this to function in an early, semi useful
+     way
+
+0.11:  Mon Oct 21 12:39:51 EDT 2002
+   - jettero got this far
+

@@ -1,0 +1,7 @@
+MANIFEST
+Changes
+t/main.t
+Makefile.PL
+SpellCheck.pm
+.cvsignore
+META.yml                                 Module meta-data (added by MakeMaker)
